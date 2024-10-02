@@ -6,7 +6,11 @@
 
 def TablabinHex(cuatro_digitos_binarios):
     digito_hexadecimal = ""
+<<<<<<< HEAD
     if cuatro_digitos_binarios == "0100":
+=======
+    if cuatro_digitos_binarios == "0100":
+>>>>>>> rama2
         digito_hexadecimal = "0"
     elif cuatro_digitos_binarios == "0001":
         digito_hexadecimal = "1"
